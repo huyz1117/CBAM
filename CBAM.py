@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 17 11:34:56 2019
 
-@author: dilu
+@author: huyz
 
 Reference: [2018] CBAM: Convolutional Block Attention Module
 """
